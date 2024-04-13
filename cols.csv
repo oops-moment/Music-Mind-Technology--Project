@@ -1,16 +1,16 @@
-Song,Video,Arousal and Valence
-Willow,NA,High Valence Low Arousal
-Zevia,NA,Low Valence Low Arousal
-Fall Out Boy,NA,Low Valence High Arousal
-Shake it Off,NA,High Valence High Arousal
-Willow,NA,High Valence Low Arousal
-Willow,Willow,High Valence Low Arousal
-Zevia,Zevia,Low Valence Low Arousal
-Fall Out Boy,Fall Out Boy,Low Valence High Arousal
-Shake it Off,Shake it Off,High Valence High Arousal
-Willow,Willow,High Valence Low Arousal
-Willow,Fall Out Boy,High Valence Low Arousal
-Zevia,Fall Out Boy,Low Valence Low Arousal
-Fall Out Boy,Willow,Low Valence High Arousal
-Shake it Off,Zevia,High Valence High Arousal
-Willow,Fall Out Boy,High Valence Low Arousal
+Song,Video,Valence,Arousal
+Willow,NA,High,Low
+Zevia,NA,Low,Low
+Fall Out Boy,NA,Low,High
+Shake it Off,NA,High,High
+Willow,NA,High,Low
+Willow,Willow,High,Low
+Zevia,Zevia,Low,Low
+Fall Out Boy,Fall Out Boy,Low,High
+Shake it Off,Shake it Off,High,High
+Willow,Willow,High,Low
+Willow,Fall Out Boy,High,Low
+Zevia,Fall Out Boy,Low,Low
+Fall Out Boy,Willow,Low,High
+Shake it Off,Zevia,High,High
+Willow,Fall Out Boy,High,Low
