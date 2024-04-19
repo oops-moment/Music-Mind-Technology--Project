@@ -16,3 +16,16 @@ Shake it Off,Zevia,High,High,NonCorr
 Willow,Fall Out Boy,High,Low,NonCorr
 Willow,NA,High,Low,NoVideo
 Zevia,NA,Low,Low,NoVideo
+Fall Out Boy,NA,Low,High,NoVideo
+Shake it Off,NA,High,High,NoVideo
+Willow,NA,High,Low,NoVideo
+Willow,Willow,High,Low,Corr
+Zevia,Zevia,Low,Low,Corr
+Fall Out Boy,Fall Out Boy,Low,High,Corr
+Shake it Off,Shake it Off,High,High,Corr
+Willow,Willow,High,Low,Corr
+Willow,Fall Out Boy,High,Low,NonCorr
+Zevia,Fall Out Boy,Low,Low,NonCorr
+Fall Out Boy,Willow,Low,High,NonCorr
+Shake it Off,Zevia,High,High,NonCorr
+Willow,Fall Out Boy,High,Low,NonCorr
