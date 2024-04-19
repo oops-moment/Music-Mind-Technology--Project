@@ -1,18 +1,18 @@
-Song,Video,Valence,Arousal
-Willow,NA,High,Low
-Zevia,NA,Low,Low
-Fall Out Boy,NA,Low,High
-Shake it Off,NA,High,High
-Willow,NA,High,Low
-Willow,Willow,High,Low
-Zevia,Zevia,Low,Low
-Fall Out Boy,Fall Out Boy,Low,High
-Shake it Off,Shake it Off,High,High
-Willow,Willow,High,Low
-Willow,Fall Out Boy,High,Low
-Zevia,Fall Out Boy,Low,Low
-Fall Out Boy,Willow,Low,High
-Shake it Off,Zevia,High,High
-Willow,Fall Out Boy,High,Low
-Willow,NA,High,Low
-Zevia,NA,Low,Low
+Song,Video,Valence,Arousal,type
+Willow,NA,High,Low,NoVideo
+Zevia,NA,Low,Low,NoVideo
+Fall Out Boy,NA,Low,High,NoVideo
+Shake it Off,NA,High,High,NoVideo
+Willow,NA,High,Low,NoVideo
+Willow,Willow,High,Low,Corr
+Zevia,Zevia,Low,Low,Corr
+Fall Out Boy,Fall Out Boy,Low,High,Corr
+Shake it Off,Shake it Off,High,High,Corr
+Willow,Willow,High,Low,Corr
+Willow,Fall Out Boy,High,Low,NonCorr
+Zevia,Fall Out Boy,Low,Low,NonCorr
+Fall Out Boy,Willow,Low,High,NonCorr
+Shake it Off,Zevia,High,High,NonCorr
+Willow,Fall Out Boy,High,Low,NonCorr
+Willow,NA,High,Low,NoVideo
+Zevia,NA,Low,Low,NoVideo
